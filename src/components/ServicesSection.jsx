@@ -48,7 +48,7 @@ const ServiceCard = ({ icon, title, description }) => {
   );
 };
 
-const Services = () => {
+const ServicesSection = () => {
   return (
     <div className="relative py-16 px-4 sm:px-8 lg:px-12 bg-gradient-to-br from-blue-100 via-white to-yellow-50 overflow-hidden">
       {/* Background Decorations */}
@@ -137,4 +137,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default ServicesSection;
