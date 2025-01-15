@@ -6,7 +6,7 @@ import Services from './components/Services';
 function App() {
   return (
     <div className="min-h-screen bg-gray-50">
-      <Services />      
+      <Services/>      
     </div>
   );
 }
